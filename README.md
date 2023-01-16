@@ -1,1 +1,1 @@
-CakeCraft 1.9
+Plugins for Eaglercraftx aka 1.8.8
